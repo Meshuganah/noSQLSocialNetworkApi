@@ -8,6 +8,8 @@ const userController = {
 
     createNewUser(){},
 
+    updateUser(){},
+
     deleteUser(){},
 
     addFriend(){},
